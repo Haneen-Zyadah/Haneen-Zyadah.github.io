@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Haneen-Zyadah/Haneen-Zyadah.github.io.git/static/css/main.18afd272.css",
-    "main.js": "/Haneen-Zyadah/Haneen-Zyadah.github.io.git/static/js/main.60bf7af2.js",
-    "index.html": "/Haneen-Zyadah/Haneen-Zyadah.github.io.git/index.html",
-    "main.18afd272.css.map": "/Haneen-Zyadah/Haneen-Zyadah.github.io.git/static/css/main.18afd272.css.map",
-    "main.60bf7af2.js.map": "/Haneen-Zyadah/Haneen-Zyadah.github.io.git/static/js/main.60bf7af2.js.map"
+    "main.css": "/static/css/main.18afd272.css",
+    "main.js": "/static/js/main.60bf7af2.js",
+    "index.html": "/index.html",
+    "main.18afd272.css.map": "/static/css/main.18afd272.css.map",
+    "main.60bf7af2.js.map": "/static/js/main.60bf7af2.js.map"
   },
   "entrypoints": [
     "static/css/main.18afd272.css",
